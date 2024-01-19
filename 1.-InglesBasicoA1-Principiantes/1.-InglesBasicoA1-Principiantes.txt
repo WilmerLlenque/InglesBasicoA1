@@ -90,3 +90,17 @@ A : Es un articulo que usamos con las consonantes. también para las que suenan 
     Z : A zzz status.
 
 NOTA: Hay una excepcion, la mas comun es con la letra U.
+
+========== COMO USAR IT´S EN INGLES ==========
+
+IT'S = Es la contracción del sujeto + un verbo.
+
+It´s white.
+It´s beautifull.
+It´s new.
+
+    IT´S + ARTICLE + NOUN (IT IS + AN/A + PERSON,PLACE OR THING)
+It´s an email.
+It´s a friend request notification.
+It´s a reminder notification.
+It´s a new comment notification.
