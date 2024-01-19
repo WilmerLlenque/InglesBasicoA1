@@ -55,3 +55,38 @@ X : Xenophobia
 Y : Your
 Z : Zero
 
+========== ARTICULOS INDEFINIDOS EN INGLES: "A" Y "AN" ==========
+
+AN : Es un articulo que usamos con las vocales. tambien para las que suenan como vocales.
+    
+    A : AN Account.
+    E : AN Emergency.
+    I : AN Inning .
+    O : AN Observation.
+    U : AN Upload.
+
+A : Es un articulo que usamos con las consonantes. también para las que suenan como consonantes.
+
+    B : A book.
+    C : A comment.
+    D : A direct message.
+    F : A friend request.
+    G : A graph.
+    H : A hamburger menu.
+    J : A join group button.
+    K : A kick out button
+    L : A like.
+    M : A message.
+    N : A notification.
+    P : A profile.
+    Q : A query.
+    R : A restriction.
+    S : A settings icon.
+    T : A timeline.
+    V : A view.
+    W : A website.
+    X : A xylophone sound.
+    Y : A yearbook.
+    Z : A zzz status.
+
+NOTA: Hay una excepcion, la mas comun es con la letra U.
