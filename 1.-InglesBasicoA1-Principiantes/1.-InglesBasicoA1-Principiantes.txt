@@ -21,3 +21,37 @@ In this course, you will learn
 ● Your Hobbies.
 ● Questions with What’s Your.
 ● Wrap Up.
+
+---------------------------- VOCABULARIO FUNDAMENTALES EN INGLES ----------------------------
+
+========== EL ALFABETO EN INGLES ==========
+
+Alphabet in english has 26 letters.
+
+A : Allocates
+B : builder
+C : Constructs
+D : Deprecated
+E : Empty 
+F : For
+G : Group 
+H : Have
+I : Initializes
+J : Join
+K : Key
+L : Last 
+M : Measured 
+N : Newly
+O : Operations 
+P : Properties
+Q : Quality 
+R : Represents
+S : Sequence
+T : This
+U : Used
+V : Value
+W : Words
+X : Xenophobia
+Y : Your
+Z : Zero
+
