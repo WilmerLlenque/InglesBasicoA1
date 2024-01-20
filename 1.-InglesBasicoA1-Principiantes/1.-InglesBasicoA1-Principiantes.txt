@@ -104,3 +104,22 @@ It´s an email.
 It´s a friend request notification.
 It´s a reminder notification.
 It´s a new comment notification.
+
+========== SUSTANTIVOS PLURALES EN INGLES ==========
+
+● Para muchos sustantivos en ingles la forma plural mas comun es añadir 's' al final de la palabra.
+● Para otras palabras que terminan en 'S', 'SH', 'CH', 'X' y 'Z' la forma plural mas comun es 'ES'
+● Para las palabras que terminan en ´Y´ son especiales:
+    Vocales + y = 'S'
+    Consonant + y ='IES'
+● Por ultimo, tenemos formas plurales irregulares. Estas formas no tienen un patron.
+
+Ejemplos:
+
+    messages
+    statuses
+    options
+    comments
+    queries
+    profiles
+    notifications
